@@ -9,7 +9,7 @@ int total = 0;
 
 int main()
 {
-    std::ifstream file ("F:\\AOC\\day1\\day1input.txt", std::ios::in);
+    std::ifstream file ("F:\\AOC2023\\day1\\day1input.txt", std::ios::in);
     int lineCount = 1;
     
     if(!file)
